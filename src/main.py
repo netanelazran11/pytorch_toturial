@@ -6,3 +6,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
+ def say_hello():
+    print("Hello from PyTorch!")
+
+if __name__ == "__main__":
+    say_hello()

@@ -7,4 +7,6 @@ def load_corpus():
         "The capital of Turkey is Ankara"
     ]
     return corpus
-def
+
+def load_corpus():
+    return ["Example sentence"]
