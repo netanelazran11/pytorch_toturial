@@ -7,3 +7,4 @@ def load_corpus():
         "The capital of Turkey is Ankara"
     ]
     return corpus
+def
